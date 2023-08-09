@@ -1,0 +1,8 @@
+name: AirBreather
+version: '1.1'
+main: com.ashkiano.airbreather.AirBreather
+api-version: '1.16'
+author: AshKiano
+commands:
+  giveairmask:
+    description: Gives the player an Air Mask
